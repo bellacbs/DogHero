@@ -10,7 +10,7 @@
 
 <h2 id="sobre">:notebook: Sobre </h2>
 
-<p align="center">:rocket: Projeto desenvolvido conforme rodadae de case da semana 23, projeto escolhido DogHero - Case de back-End </p>
+<p align="center">:rocket: Projeto desenvolvido similiar ao DogHero </p>
 
 
 <h2 id="funciona">:heavy_check_mark: O que funciona</h2>
@@ -24,6 +24,7 @@
 <h2 id="pendente">:construction: Em desenvolvimento</h2>
 
 - [x] Testes
+- [x] Documentação
 
 
 <h2 id="desenvolvedores">:construction_worker: Desenvolvedores</h2>
