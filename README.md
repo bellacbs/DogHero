@@ -1,5 +1,5 @@
 
-<h1 align="center" id="top">:rocket: == DogHero == :rocket:</h1>
+<h1 align="center" id="top">:rocket: == DogWalk == :rocket:</h1>
 
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
@@ -10,7 +10,15 @@
 
 <h2 id="sobre">:notebook: Sobre </h2>
 
-<p align="center">:rocket: Projeto desenvolvido similiar ao DogHero </p>
+<p align="center">:rocket: Projeto desenvolvido similiar ao DogHero, utilziando POO </p>
+
+<h2 id="tecnologias"> 🛠 Tecnologias </h2>
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+* NodeJS
+* TypeScript
+* MySQL
 
 
 <h2 id="funciona">:heavy_check_mark: O que funciona</h2>
@@ -24,6 +32,7 @@
 <h2 id="pendente">:construction: Em desenvolvimento</h2>
 
 - [x] Testes
+- [x] Deploy Heroku
 - [x] Documentação
 
 
