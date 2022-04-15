@@ -10,7 +10,7 @@
 
 <h2 id="sobre">:notebook: Sobre </h2>
 
-<p align="center">:rocket: Projeto desenvolvido similiar ao DogHero, utilziando POO </p>
+<p align="center">:rocket: Projeto desenvolvido similiar ao DogHero, utlizando POO </p>
 
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
 
